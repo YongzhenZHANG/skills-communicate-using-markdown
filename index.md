@@ -14,3 +14,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-reposotory/.git/
 ```
+``` javascript
+var myVar = "Hello, world!";
+```
